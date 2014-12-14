@@ -101,4 +101,3 @@ p1 <- ggplot(df_inp_avg, aes(interval, steps))
 p1 + geom_line() + facet_grid(day_type ~ .)
 ```
 
-Thanks!

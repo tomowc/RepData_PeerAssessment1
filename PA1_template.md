@@ -155,4 +155,3 @@ p1 + geom_line() + facet_grid(day_type ~ .)
 
 ![](PA1_template_files/figure-html/unnamed-chunk-6-1.png) 
 
-Thanks for reading this! Any feedback (especially if you find errors) will be appreciated :)
